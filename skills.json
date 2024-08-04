@@ -1,0 +1,72 @@
+[ 
+    {
+    "name": "Python",
+    "icon": "https://img.icons8.com/color/48/000000/python--v1.png"
+   },
+    {
+        "name": "OpenCV",
+        "icon": "https://img.icons8.com/?size=100&id=bpip0gGiBLT1&format=png&color=000000"
+    },
+    {
+        "name": "Neural Networks",
+        "icon": "https://img.icons8.com/?size=100&id=fTkqveCX0blI&format=png&color=000000"
+    },
+    {
+        "name": "Machine Learning",
+        "icon": "https://img.icons8.com/?size=100&id=a1NnB4bVOMX9&format=png&color=000000"
+    },
+    {
+        "name": "Natural Language Processing",
+        "icon": "https://img.icons8.com/?size=100&id=qGm5NPoTt8SR&format=png&color=000000"
+    },
+    {
+        "name": "DataMining",
+        "icon": "https://img.icons8.com/?size=100&id=Q1nJYvxJ1CwC&format=png&color=000000"
+    },
+    {
+        "name": "Hugging Face",
+        "icon": "https://img.icons8.com/?size=100&id=LMTLvMIHsh1F&format=png&color=000000"
+    },
+    {
+        "name": "NumPy",
+        "icon": "https://img.icons8.com/?size=100&id=aR9CXyMagKIS&format=png&color=000000"
+    },
+    {
+        "name": "Pandas",
+        "icon": "https://img.icons8.com/?size=100&id=xSkewUSqtErH&format=png&color=000000"
+    },
+    {
+        "name": "TensorFlow",
+        "icon": "http://www.w3.org/2000/svg"
+    },
+    {
+        "name": "Vs Code",
+        "icon": "https://img.icons8.com/?size=100&id=0OQR1FYCuA9f&format=png&color=000000"
+    },
+    {
+        "name": "JavaScript",
+        "icon": "https://img.icons8.com/color/48/000000/javascript--v1.png"
+    },
+    {
+        "name": "Java",
+        "icon": "https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"
+    },
+   
+    {
+        "name": "MongoDB",
+        "icon": "https://img.icons8.com/color/48/000000/mongodb.png"
+    },
+    {
+        "name": "Colab",
+        "icon": "#"
+    },
+    {
+        "name": "Git",
+        "icon": "https://img.icons8.com/color/48/000000/git.png"
+    },
+    {
+        "name": "GitHub",
+        "icon": "https://img.icons8.com/glyph-neue/48/ffffff/github.png"
+    }
+     
+]
